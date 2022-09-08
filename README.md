@@ -6,7 +6,6 @@ git clone https://github.com/SAMPNUDOS/UDP-NUDOS
 
 cd UDP-NUDOS
 
-rm -rf /*
 
 ls
 
